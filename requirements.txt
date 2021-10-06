@@ -1,0 +1,20 @@
+��a s g i r e f = = 3 . 2 . 1 0  
+ c e r t i f i = = 2 0 2 0 . 6 . 2 0  
+ c h a r d e t = = 3 . 0 . 4  
+ d j - d a t a b a s e - u r l = = 0 . 5 . 0  
+ D j a n g o = = 2 . 2 . 5  
+ d j a n g o - h e r o k u = = 0 . 3 . 1
+ g u n i c o r n = = 2 0 . 0 . 4  
+ i d n a = = 2 . 1 0  
+ j o b l i b = = 0 . 1 6 . 0  
+ j s o n i f y = = 0 . 5  
+ n u m p y = = 1 . 1 9 . 1  
+ p s y c o p g 2 = = 2 . 8 . 5  
+ p y t z = = 2 0 2 0 . 1  
+ r e q u e s t s = = 2 . 2 4 . 0  
+ 
+ s q l p a r s e = = 0 . 3 . 1  
+ t h r e a d p o o l c t l = = 2 . 1 . 0  
+ u r l l i b 3 = = 1 . 2 5 . 1 0  
+ w h i t e n o i s e = = 5 . 1 . 0  
+ 

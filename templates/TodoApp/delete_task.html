@@ -1,0 +1,16 @@
+{% extends 'TodoApp/base.html' %}
+{% block body_block %}
+    <div class="container">
+
+    	<h3>Deleting "<span style="color: White;">{{item}}</span>" do you want to proceed?</h3>
+      <!-- <a class="no" href="{% url 'task_list' %}" ><button type="submit" class="btn btn-success" name="button">NO</button></a> -->
+
+      <br><br><br><a href="{% url 'task_list' %}" ><input type="text" type="submit" class="btn btn-success" name="button" value="No"></a>
+
+    	<form method="POST" action="">
+        {% csrf_token %}
+
+    		<input class="btn btn-sm btn-danger" type="submit" value="Yes Delete" name="Yes">
+    	</form>
+    </div>
+{% endblock %}
