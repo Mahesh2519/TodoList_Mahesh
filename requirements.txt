@@ -1,7 +1,6 @@
- a s g i r e f = = 3 . 2 . 1 0 
- 
+
  c e r t i f i = = 2 0 2 0 . 6 . 2 0 
- 
+ a s g i r e f = = 3 . 2 . 1 0 
  c h a r d e t = = 3 . 0 . 4 
  
  d j - d a t a b a s e - u r l = = 0 . 5 . 0 
